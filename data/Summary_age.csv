@@ -1,0 +1,402 @@
+﻿Schluessel,Name,% age_0_17,% age_18_24,% age_25_44,% age_45_64,% age_65_
+1001, Flensburg Kreisfreie Stadt,15.4,11.9,26.2,26.2,20.2
+1002, Kiel Landeshauptstadt Kreisfreie Stadt,14.7,11,30,25.8,18.5
+1003, Lübeck Hansestadt Kreisfreie Stadt,15.2,8.2,24.9,28.5,23.2
+1004, Neumünster Kreisfreie Stadt,16.6,8.2,23.6,29,22.6
+1051, Dithmarschen Landkreis,16,7.8,20.3,31.2,24.6
+1053, Herzogtum Lauenburg Landkreis,17.4,6.8,22.1,31.4,22.3
+1054, Nordfriesland Landkreis,16,7.8,21.4,30.9,23.9
+1055, Ostholstein Landkreis,14.6,6.4,19.5,32.2,27.3
+1056, Pinneberg Landkreis,17,7.2,22.9,30.8,22.1
+1057, Plön Landkreis,16,6.6,19.4,32.2,25.8
+1058, Rendsburg-Eckernförde Landkreis,17,7.1,20.7,32,23.2
+1059, Schleswig-Flensburg Landkreis,17.1,7.1,20.9,31.3,23.6
+1060, Segeberg Landkreis,17,7.1,23.1,31,21.7
+1061, Steinburg Landkreis,16.4,7.4,20.9,32.6,22.6
+1062, Stormarn Landkreis,17.3,6.7,21.8,31.2,23
+2000, Hamburg,16.5,8,30.7,26.4,18.4
+3101, Braunschweig Kreisfreie Stadt,14.6,8.9,28.6,26.9,21
+3102, Salzgitter Kreisfreie Stadt,17.6,8.2,22.9,28.5,22.8
+3103, Wolfsburg Kreisfreie Stadt,16.3,7.1,26.6,27.7,22.3
+3151, Gifhorn Landkreis,17.9,7.4,22.7,32.1,19.8
+3153, Goslar Landkreis,13.7,7.7,20.5,31,27.2
+3154, Helmstedt Landkreis,15.7,6.8,22.3,32,23.2
+3155, Northeim Landkreis,15.2,7.1,20.2,32.3,25.3
+3157, Peine Landkreis,17.6,7.3,21.9,31.8,21.4
+3158, Wolfenbüttel Landkreis,15.8,7.6,21.1,32.2,23.4
+3159, Göttingen Landkreis,15.2,9.4,23.8,29.2,22.3
+3241, Region Hannover Landkreis,16.5,8.1,25.7,28.7,21.1
+3251, Diepholz Landkreis,16.7,7.4,21.6,32.1,22.2
+3252, Hameln-Pyrmont Landkreis,15.7,7.1,20.5,31.3,25.4
+3254, Hildesheim Landkreis,15.6,8.4,22,30.7,23.2
+3255, Holzminden Landkreis,15.2,7.5,20.1,31.3,26
+3256," Nienburg (Weser), Landkreis",17,7.7,21.4,32,22
+3257, Schaumburg Landkreis,15.8,7.3,20.7,31.8,24.4
+3351, Celle Landkreis,17.3,7.2,22.1,30.2,23.2
+3352, Cuxhaven Landkreis,16.2,6.9,20.4,31.5,25
+3353, Harburg Landkreis,17.2,7.1,21.8,31.6,22.2
+3354, Lüchow-Dannenberg Landkreis,15.3,6.2,19,31.9,27.6
+3355, Lüneburg Landkreis,17.4,8.6,24.1,30.2,19.8
+3356, Osterholz Landkreis,16.7,7,20.7,32.4,23.2
+3357," Rotenburg (Wümme), Landkreis",17.2,8,22.4,31.4,20.9
+3358, Heidekreis Landkreis,16.8,7.7,22.2,30.9,22.3
+3359, Stade Landkreis,17.6,7.7,23.3,30.2,21.2
+3360, Uelzen Landkreis,15.4,7.3,20.5,31.9,25
+3361, Verden Landkreis,17.6,7.5,22,31,22
+3401, Delmenhorst Kreisfreie Stadt,17.3,8,23.6,29.1,22
+3402, Emden Kreisfreie Stadt,16.7,9.5,24.6,28.2,21
+3403," Oldenburg (Oldenburg), Kreisfreie Stadt",15.6,9.9,27.9,27.7,18.9
+3404, Osnabrück Kreisfreie Stadt,15,12,28.6,25.8,18.7
+3405, Wilhelmshaven Kreisfreie Stadt,14.3,9.2,22.1,28.2,26.2
+3451, Ammerland Landkreis,17.4,7.4,21.5,30.9,22.8
+3452, Aurich Landkreis,16.8,7.9,21.5,31.2,22.5
+3453, Cloppenburg Landkreis,20.5,9.4,25,28.9,16.2
+3454, Emsland Landkreis,18.3,8.4,24.6,30,18.7
+3455, Friesland Landkreis,16,7.2,19.6,31.4,25.8
+3456, Grafschaft Bentheim Landkreis,18.2,8.1,22.8,30.6,20.4
+3457, Leer Landkreis,17.4,8.1,22.8,30.6,21.1
+3458, Oldenburg Landkreis,17.4,7.7,21.5,32.4,21
+3459, Osnabrück Landkreis,17.9,8,22.6,31,20.4
+3460, Vechta Landkreis,19.9,9.7,25.6,28.9,15.9
+3461, Wesermarsch Landkreis,16.3,7.8,20.7,32,23.2
+3462, Wittmund Landkreis,16.5,7.6,20.4,31.2,24.2
+4011, Bremen Kreisfreie Stadt,15.8,8.7,27,27.5,21
+4012, Bremerhaven Kreisfreie Stadt,17.4,8.4,24.1,28.3,21.8
+5111, Düsseldorf Kreisfreie Stadt,15.9,7.2,30,27.4,19.4
+5112, Duisburg Kreisfreie Stadt,17,8.3,25.5,28.8,20.4
+5113, Essen Kreisfreie Stadt,16,8,26.1,28.4,21.5
+5114, Krefeld Kreisfreie Stadt,16.4,7.8,23.7,30.1,22
+5116, Mönchengladbach Kreisfreie Stadt,16.5,8.1,24.7,29.9,20.7
+5117, Mülheim an der Ruhr Kreisfreie Stadt,15.9,7.1,23,30.3,23.7
+5119, Oberhausen Kreisfreie Stadt,15.8,7.6,24.5,30.5,21.7
+5120, Remscheid Kreisfreie Stadt,16.7,7.5,22.9,30.6,22.3
+5122, Solingen Kreisfreie Stadt,16.8,7.7,23.4,30.7,21.4
+5124, Wuppertal Kreisfreie Stadt,17,8.4,25,28.8,20.9
+5154, Kleve Kreis,16.7,8.2,23.3,31.5,20.3
+5158, Mettmann Kreis,16.6,6.8,21.7,31.1,23.8
+5162, Rhein-Kreis Neuss,17.2,6.9,22.9,31.1,21.8
+5166, Viersen Kreis,16.3,7.4,21.7,32.9,21.8
+5170, Wesel Kreis,15.7,7,22,32.3,22.9
+5314, Bonn Kreisfreie Stadt,17.3,9.9,28.4,26.4,18
+5315, Köln Kreisfreie Stadt,16.1,8.5,31.2,26.7,17.4
+5316, Leverkusen Kreisfreie Stadt,17,7.3,24,29.9,21.7
+5334, Städteregion Aachen (einschl. Stadt Aachen),15.5,11,25.2,28.1,20.2
+5358, Düren Kreis,16.7,8.2,22.8,31.3,21.1
+5362, Rhein-Erft-Kreis,17.1,7.4,23.3,30.9,21.3
+5366, Euskirchen Kreis,16.8,7.5,22,32.4,21.3
+5370, Heinsberg Kreis,16.8,7.7,22.8,32.1,20.6
+5374, Oberbergischer Kreis,17.5,8,22.3,31,21.1
+5378, Rheinisch-Bergischer Kreis,16.8,7.1,21,32,23.1
+5382, Rhein-Sieg-Kreis,17.6,7.6,22.5,31.2,21.1
+5512, Bottrop Kreisfreie Stadt,15.6,7.4,23.2,31.7,22.1
+5513, Gelsenkirchen Kreisfreie Stadt,17.4,8,24.7,29.3,20.6
+5515, Münster Kreisfreie Stadt,15,12.6,30.1,25.5,16.9
+5554, Borken Kreis,18.5,8.5,23.5,30.9,18.7
+5558, Coesfeld Kreis,17.4,7.9,21.9,32.3,20.4
+5562, Recklinghausen Kreis,16,7.4,22.4,31.8,22.5
+5566, Steinfurt Kreis,18.2,8.4,22.7,31.1,19.6
+5570, Warendorf Kreis,17.9,7.9,22.4,31,20.9
+5711, Bielefeld Kreisfreie Stadt,17.1,9.2,26.5,27.2,19.9
+5754, Gütersloh Kreis,18,8.3,23.9,30.4,19.3
+5758, Herford Kreis,17,7.6,22.6,30.8,21.9
+5762, Höxter Kreis,16.8,7.9,21.3,31.7,22.3
+5766, Lippe Kreis,17.9,8,21.9,30,22.3
+5770, Minden-Lübbecke Kreis,17.5,7.8,22.2,30.7,21.8
+5774, Paderborn Kreis,17.9,9.2,26.1,29,17.8
+5911, Bochum Kreisfreie Stadt,14.6,8.8,26.1,28.6,22
+5913, Dortmund Kreisfreie Stadt,16.2,8.6,26.5,28.3,20.4
+5914, Hagen Kreisfreie Stadt,17.1,7.7,23.1,29.7,22.5
+5915, Hamm Kreisfreie Stadt,17.6,8.5,24.3,28.9,20.7
+5916, Herne Kreisfreie Stadt,16.1,8.1,24,29.9,21.8
+5954, Ennepe-Ruhr-Kreis,15.3,7.2,22.1,31.9,23.5
+5958, Hochsauerlandkreis,16.6,7.8,22.2,31.7,21.8
+5962, Märkischer Kreis,16.7,7.6,22.4,31.4,21.9
+5966, Olpe Kreis,17.4,7.9,23.2,31.6,19.9
+5970, Siegen-Wittgenstein Kreis,16.2,8.8,23.8,29.9,21.3
+5974, Soest Kreis,17.1,7.8,22.8,31.3,21
+5978, Unna Kreis,16.1,7.5,22.3,31.6,22.6
+6411, Darmstadt Kreisfreie Stadt,16,11.3,30.8,24.7,17.3
+6412, Frankfurt am Main Kreisfreie Stadt,16.8,7.6,34,26,15.7
+6413, Offenbach am Main Kreisfreie Stadt,18.4,8.3,30.1,26.5,16.7
+6414, Wiesbaden Landeshauptstadt Kreisfreie Stadt,17.7,7.9,26.7,27.8,19.9
+6431, Bergstraße Landkreis,16.1,7.4,22.6,31.9,22
+6432, Darmstadt-Dieburg Landkreis,17,7.7,23.6,31,20.6
+6433, Groß-Gerau Landkreis,17.8,7.9,26.1,28.9,19.3
+6434, Hochtaunuskreis,18,6.7,22,30.7,22.5
+6435, Main-Kinzig-Kreis,16.7,7.6,23.8,30.6,21.3
+6436, Main-Taunus-Kreis,18,6.8,24.1,30,21.2
+6437, Odenwaldkreis,15.8,7.3,21.9,31.6,23.3
+6438, Offenbach Landkreis,17.4,7.3,24.6,29.6,21.1
+6439, Rheingau-Taunus-Kreis,16.4,7.4,21.7,31.8,22.7
+6440, Wetteraukreis,16.8,7.6,23.6,31,20.9
+6531, Gießen Landkreis,15.7,10.9,26.2,27.9,19.2
+6532, Lahn-Dill-Kreis,16.5,7.8,23,30.8,21.9
+6533, Limburg-Weilburg Landkreis,16.8,7.7,22.9,31.4,21.2
+6534, Marburg-Biedenkopf Landkreis,16,10.9,25.2,28.4,19.4
+6535, Vogelsbergkreis,15.1,7.2,21.2,32.5,24
+6611, Kassel Kreisfreie Stadt,15.7,10.2,28.2,26.4,19.5
+6631, Fulda Landkreis,17.1,8.5,23.7,29.9,20.9
+6632, Hersfeld-Rotenburg Landkreis,16,7.2,21.9,31.1,23.8
+6633, Kassel Landkreis,15.7,6.9,21.1,31.7,24.7
+6634, Schwalm-Eder-Kreis,15.8,7.2,22.1,31.8,23
+6635, Waldeck-Frankenberg Landkreis,16.3,7.4,21.6,31.7,23
+6636, Werra-Meißner-Kreis,14.8,7.5,20.5,31.8,25.4
+7111, Koblenz Kreisfreie Stadt,14.6,9.8,27.7,26.2,21.6
+7131, Ahrweiler Landkreis,15.3,7.5,21.1,31.8,24.3
+7132," Altenkirchen (Westerwald), Landkreis",16.4,7.7,22.2,31.7,22
+7133, Bad Kreuznach Landkreis,16.3,7.1,22,31.6,23
+7134, Birkenfeld Landkreis,15.1,7.3,21.6,31.9,24.1
+7135, Cochem-Zell Landkreis,15.2,7.2,21.1,32.4,24
+7137, Mayen-Koblenz Landkreis,16.4,7.3,22.9,31.7,21.6
+7138, Neuwied Landkreis,16.9,7.6,21.9,31.5,22.1
+7140, Rhein-Hunsrück-Kreis,16.1,7.1,22,32.3,22.3
+7141, Rhein-Lahn-Kreis,15.8,7.1,21.9,32,23.1
+7143, Westerwaldkreis,16.9,7.4,22.8,32.1,20.9
+7211, Trier Kreisfreie Stadt,14.3,11.9,30.5,25.6,17.7
+7231, Bernkastel-Wittlich Landkreis,16.1,7.1,22.4,31.9,22.5
+7232, Eifelkreis Bitburg-Prüm,16.9,7.6,23.4,31.7,20.5
+7233, Vulkaneifel Landkreis,15.4,7.4,21,32.4,23.9
+7235, Trier-Saarburg Landkreis,17,7.1,23.4,32.3,20.3
+7311," Frankenthal (Pfalz), Kreisfreie Stadt",16.9,7.5,24.3,28.5,22.9
+7312, Kaiserslautern Kreisfreie Stadt,14.6,11.2,27,27.1,20.2
+7313, Landau in der Pfalz Kreisfreie Stadt,15.1,12.2,25.3,28.3,19
+7314, Ludwigshafen am Rhein Kreisfreie Stadt,18.1,8.4,26.8,27.6,19.1
+7315, Mainz Kreisfreie Stadt,14.8,11,32.1,24.7,17.5
+7316, Neustadt an der Weinstraße Kreisfreie Stadt,15.8,6.9,22.2,31,24
+7317, Pirmasens Kreisfreie Stadt,15.2,7.9,21.3,30.4,25.2
+7318, Speyer Kreisfreie Stadt,16.1,7.5,23.7,30.6,22.1
+7319, Worms Kreisfreie Stadt,17.2,8.6,25,28.8,20.3
+7320, Zweibrücken Kreisfreie Stadt,15.5,7.9,24.3,29.4,23
+7331, Alzey-Worms Landkreis,17.1,7.4,23.1,32.7,19.6
+7332, Bad Dürkheim Landkreis,15.5,6.7,20.6,33.4,23.9
+7333, Donnersbergkreis,16.6,7.1,21.8,33.1,21.3
+7334, Germersheim Landkreis,16.8,7.9,24.3,31.5,19.5
+7335, Kaiserslautern Landkreis,17,7.3,22.2,32,21.4
+7336, Kusel Landkreis,15.1,7.1,21.1,33.1,23.5
+7337, Südliche Weinstraße Landkreis,15.8,7,21.5,33,22.7
+7338, Rhein-Pfalz-Kreis,16.5,6.7,22.5,31.8,22.5
+7339, Mainz-Bingen Landkreis,17.3,7.3,22.6,32.4,20.4
+7340, Südwestpfalz Landkreis,14.2,6.8,20.4,33.9,24.7
+8111, Stuttgart Landeshauptstadt Stadtkreis,15.4,8.6,32.9,25.2,17.9
+8115, Böblingen Landkreis,17.9,7.6,25.8,28.9,19.8
+8116, Esslingen Landkreis,16.9,8.1,25.4,29.2,20.4
+8117, Göppingen Landkreis,16.9,8,23.8,29.9,21.4
+8118, Ludwigsburg Landkreis,17.6,7.6,26,29.1,19.7
+8119, Rems-Murr-Kreis Landkreis,17.1,7.9,23.9,30.2,20.9
+8121, Heilbronn Stadtkreis,17.3,8.8,27.9,26.5,19.5
+8125, Heilbronn Landkreis,17.5,7.9,25.1,30.4,19.1
+8126, Hohenlohekreis Landkreis,17.5,8.2,24.6,30.6,19.2
+8127, Schwäbisch Hall Landkreis,17.8,8,24.8,30.3,19
+8128, Main-Tauber-Kreis Landkreis,16.3,7.7,22.9,30.9,22.2
+8135, Heidenheim Landkreis,17.2,7.9,23.7,29.5,21.8
+8136, Ostalbkreis Landkreis,17.3,8.5,23.9,29.9,20.4
+8211, Baden-Baden Stadtkreis,14.3,7.1,22.3,30.2,26.2
+8212, Karlsruhe Stadtkreis,14.3,11.2,30.3,25.8,18.3
+8215, Karlsruhe Landkreis,16.6,7.6,23.9,30.9,20.9
+8216, Rastatt Landkreis,16.4,7.4,23.4,31.4,21.3
+8221, Heidelberg Stadtkreis,14,13.4,33.4,23.1,16.2
+8222, Mannheim Stadtkreis,15.4,10.1,29.5,26.6,18.5
+8225, Neckar-Odenwald-Kreis Landkreis,16.4,7.9,22.6,31.7,21.3
+8226, Rhein-Neckar-Kreis Landkreis,16.9,7.5,23.8,30.6,21.3
+8231, Pforzheim Stadtkreis,17.6,8.7,26.6,26.9,20.3
+8235, Calw Landkreis,17.3,8,23.2,30.9,20.5
+8236, Enzkreis Landkreis,17.2,7.7,22.9,31.2,20.9
+8237, Freudenstadt Landkreis,17.3,8.1,23.2,31,20.4
+8311, Freiburg im Breisgau Stadtkreis,15.9,11.9,31.5,24.4,16.3
+8315, Breisgau-Hochschwarzwald Landkreis,17.4,7.9,22.9,30.4,21.5
+8316, Emmendingen Landkreis,17.3,7.7,23.1,31.2,20.6
+8317, Ortenaukreis Landkreis,17.3,7.8,23.5,30.7,20.6
+8325, Rottweil Landkreis,17.6,7.9,23.1,30.5,20.9
+8326, Schwarzwald-Baar-Kreis Landkreis,16.6,8.1,23.9,29.3,22.1
+8327, Tuttlingen Landkreis,18.6,8.1,25,28.8,19.4
+8335, Konstanz Landkreis,16.4,9.9,24.1,28.9,20.7
+8336, Lörrach Landkreis,17.5,7.6,24,30.7,20.1
+8337, Waldshut Landkreis,17.9,7.7,23.4,30.1,20.9
+8415, Reutlingen Landkreis,17.2,8.2,24.3,29.9,20.3
+8416, Tübingen Landkreis,16.9,11.4,27,27.7,17
+8417, Zollernalbkreis Landkreis,16.4,7.8,23,30.9,21.9
+8421, Ulm Stadtkreis,16.2,10.4,29.7,25.3,18.4
+8425, Alb-Donau-Kreis Landkreis,18.2,8.3,24.2,30.1,19.1
+8426, Biberach Landkreis,18.6,8.2,25.1,29.8,18.4
+8435, Bodenseekreis Landkreis,16.8,7.8,23.3,29.7,22.4
+8436, Ravensburg Landkreis,17.7,8.7,24.5,29.5,19.5
+8437, Sigmaringen Landkreis,17.4,8.7,23.1,30.8,20.1
+9161, Ingolstadt,16.6,8.1,30.4,26.5,18.5
+9162, München Landeshauptstadt,15.7,8,33.3,25.2,17.8
+9163, Rosenheim,16.4,8.7,28.2,26.7,20.1
+9171, Altötting Landkreis,16.8,7.8,23.3,30.4,21.7
+9172, Berchtesgadener Land Landkreis,15.4,7.9,24.5,28.6,23.6
+9173, Bad Tölz-Wolfratshausen Landkreis,17.3,7.8,23.5,30.1,21.2
+9174, Dachau Landkreis,17.6,8,26.4,29.7,18.3
+9175, Ebersberg Landkreis,18.7,7.8,24.9,29.9,18.7
+9176, Eichstätt Landkreis,18.6,8.6,26.1,29.3,17.4
+9177, Erding Landkreis,18.1,8.2,25.8,31.1,16.7
+9178, Freising Landkreis,17.6,9.2,28.4,29.2,15.7
+9179, Fürstenfeldbruck Landkreis,17.6,7.5,24.4,29,21.5
+9180, Garmisch-Partenkirchen Landkreis,15.3,7.7,22.2,29.8,25
+9181, Landsberg am Lech Landkreis,17.7,8.1,23,31.4,19.7
+9182, Miesbach Landkreis,16.5,7.4,23.1,30.4,22.6
+9183, Mühldorf a.Inn Landkreis,17,8.3,24.5,30.4,19.8
+9184, München Landkreis,18.2,7.9,25,28.5,20.5
+9185, Neuburg-Schrobenhausen Landkreis,17.7,8,25.2,30.1,18.8
+9186, Pfaffenhofen a.d.Ilm Landkreis,17.4,7.9,26.4,30.4,17.9
+9187, Rosenheim Landkreis,17.1,7.8,23.4,30.6,21.1
+9188, Starnberg Landkreis,18.1,7.3,21.5,30.3,22.8
+9189, Traunstein Landkreis,16.2,7.9,23.2,30,22.6
+9190, Weilheim-Schongau Landkreis,17.3,7.8,22.8,30.6,21.4
+9261, Landshut,15.4,8.4,28.1,27.5,20.6
+9262, Passau,12.8,12.6,27.7,25.4,21.5
+9263, Straubing,14.4,8,27,29.4,21.2
+9271, Deggendorf Landkreis,16.1,8.5,24.4,31,20
+9272, Freyung-Grafenau Landkreis,15.3,8,22.6,32.9,21.3
+9273, Kelheim Landkreis,17.6,8.4,25.4,30.3,18.3
+9274, Landshut Landkreis,17.7,8,24.7,31.2,18.4
+9275, Passau Landkreis,15.9,7.8,23.1,31.6,21.7
+9276, Regen Landkreis,15.6,7.7,23.1,31.7,22
+9277, Rottal-Inn Landkreis,16.3,8.3,23.5,30.8,21.1
+9278, Straubing-Bogen Landkreis,17.2,7.8,23.9,31.8,19.3
+9279, Dingolfing-Landau Landkreis,16.4,8.1,25.8,30.9,18.8
+9361, Amberg,15.1,7.7,24.4,29.5,23.3
+9362, Regensburg,14.4,10.3,33.3,24.8,17.2
+9363, Weiden i.d.OPf.,14.8,8.3,24.3,29.5,23.1
+9371, Amberg-Sulzbach Landkreis,15.8,8,22.6,32.8,20.8
+9372, Cham Landkreis,15.9,7.9,23.6,31.7,20.8
+9373," Neumarkt i.d.OPf., Landkreis",17,8.4,24.4,31.4,18.8
+9374, Neustadt a.d.Waldnaab Landkreis,15.9,8,23,32.3,20.7
+9375, Regensburg Landkreis,17.2,7.8,24.2,31.7,19
+9376, Schwandorf Landkreis,16,8.1,24.3,31.3,20.3
+9377, Tirschenreuth Landkreis,15.2,7.8,22.2,32.3,22.5
+9461, Bamberg,14.5,10.2,30.2,25.9,19.2
+9462, Bayreuth,12.8,13.8,26.3,25.7,21.5
+9463, Coburg,14.1,8.4,24.9,29.1,23.5
+9464, Hof,15.7,8.2,23.3,28.8,23.9
+9471, Bamberg Landkreis,17,7.6,24.3,32.4,18.7
+9472, Bayreuth Landkreis,16,7.1,22,32.7,22.1
+9473, Coburg Landkreis,15.6,7,22.1,32.4,22.9
+9474, Forchheim Landkreis,16.9,7.6,23.4,32.2,20
+9475, Hof Landkreis,14.6,6.9,20.3,32.7,25.6
+9476, Kronach Landkreis,14.2,6.8,21.4,33.8,23.9
+9477, Kulmbach Landkreis,14.6,7.2,21.4,33,23.8
+9478, Lichtenfels Landkreis,15.4,7.5,22.5,32.4,22.2
+9479, Wunsiedel i.Fichtelgebirge Landkreis,14.5,7,20.2,32.1,26.2
+9561, Ansbach,16.3,8.5,25,28.9,21.4
+9562, Erlangen,15.8,10.6,30.5,25.3,17.9
+9563, Fürth,16.2,8,28.2,29.3,18.3
+9564, Nürnberg,15.8,8.4,29,26.7,20.2
+9565, Schwabach,16.9,7.5,23.6,30.3,21.8
+9571, Ansbach Landkreis,17.1,8.2,23.8,31.2,19.8
+9572, Erlangen-Höchstadt Landkreis,17.6,7.2,23.7,31.3,20.2
+9573, Fürth Landkreis,16.3,6.8,22.6,31.5,22.8
+9574, Nürnberger Land Landkreis,16.3,7.2,22.8,31.5,22.2
+9575, Neustadt a.d.Aisch-Bad Windsheim Landkreis,16.7,7.9,23.1,31.7,20.6
+9576, Roth Landkreis,16.7,7.9,23,31.9,20.6
+9577, Weißenburg-Gunzenhausen Landkreis,16.7,7.7,23,30.9,21.6
+9661, Aschaffenburg,16,7.6,26.6,29.1,20.7
+9662, Schweinfurt,15.9,8.4,24.9,26.9,23.8
+9663, Würzburg,12.4,12.8,30.7,24,20
+9671, Aschaffenburg Landkreis,16.2,7.4,22.8,32.4,21.1
+9672, Bad Kissingen Landkreis,15.4,7.2,21.4,31.9,24.1
+9673, Rhön-Grabfeld Landkreis,16.5,7.6,22,32.2,21.7
+9674, Haßberge Landkreis,16.5,7.6,22.9,32.5,20.4
+9675, Kitzingen Landkreis,16.4,7.9,24,31.3,20.4
+9676, Miltenberg Landkreis,16.5,7.8,22.8,31.8,21
+9677, Main-Spessart Landkreis,15.5,7.4,22,32.6,22.5
+9678, Schweinfurt Landkreis,16.3,7.6,22.9,31.8,21.4
+9679, Würzburg Landkreis,16.6,7.6,23.5,31.3,20.9
+9761, Augsburg,15.2,9.3,30,25.9,19.5
+9762, Kaufbeuren,16.4,7.8,24.1,28.8,22.9
+9763, Kempten (Allgäu),15.5,9.2,26.5,26.5,22.2
+9764, Memmingen,16.7,7.7,25.4,28.6,21.6
+9771, Aichach-Friedberg Landkreis,17.9,7.8,23.8,31,19.6
+9772, Augsburg Landkreis,17.5,7.7,23.6,30.8,20.3
+9773, Dillingen a.d.Donau Landkreis,17.1,8.2,23.8,31,19.9
+9774, Günzburg Landkreis,17.1,8.2,24.6,30.8,19.2
+9775, Neu-Ulm Landkreis,17,8.1,25.4,29.3,20.1
+9776," Lindau (Bodensee), Landkreis",16.6,7.4,23,30.5,22.5
+9777, Ostallgäu Landkreis,17.6,7.9,23.4,30.2,21
+9778, Unterallgäu Landkreis,17.2,8.2,23.5,30.1,21
+9779, Donau-Ries Landkreis,17.3,8.2,24.7,30.3,19.6
+9780, Oberallgäu Landkreis,16.3,7.6,22.9,30.7,22.5
+10041, Saarbrücken Regionalverband,14.7,8.1,24.4,30,22.7
+10042, Merzig-Wadern Landkreis,15.4,6.9,22.5,32.9,22.2
+10043, Neunkirchen Landkreis,14.4,7,22.1,32.4,24.1
+10044, Saarlouis Landkreis,14.8,7.1,22.3,32.2,23.6
+10045, Saarpfalz-Kreis,14.4,7.3,21.5,32.1,24.6
+10046, St. Wendel Landkreis,14.1,6.8,21.4,33.7,24
+11000, Berlin,16.3,7.2,30.8,26.5,19.2
+12051, Brandenburg an der Havel Kreisfreie Stadt,13.9,5.2,23.9,29.7,27.3
+12052, Cottbus Kreisfreie Stadt,14.3,6.6,24.9,29.5,24.7
+12053," Frankfurt (Oder), Kreisfreie Stadt",14.3,6.7,23,30.7,25.2
+12054, Potsdam Kreisfreie Stadt,17.4,6.6,30.3,26.1,19.6
+12060, Barnim Landkreis,15.9,4.6,22.4,33.7,23.3
+12061, Dahme-Spreewald Landkreis,15.7,4.8,22.6,33.2,23.8
+12062, Elbe-Elster Landkreis,13.9,3.9,20.2,34.7,27.4
+12063, Havelland Landkreis,16.6,5.3,21.9,34,22.1
+12064, Märkisch-Oderland Landkreis,15.5,4.2,22,34.9,23.5
+12065, Oberhavel Landkreis,16.5,5.1,22,34,22.5
+12066, Oberspreewald-Lausitz Landkreis,13.8,4,20.8,33.1,28.3
+12067, Oder-Spree Landkreis,15,4.4,21,33.8,25.8
+12068, Ostprignitz-Ruppin Landkreis,14.7,4.6,21.5,34.6,24.7
+12069, Potsdam-Mittelmark Landkreis,17.2,4.8,21.4,34.7,21.9
+12070, Prignitz Landkreis,13.7,4.5,19.9,34.6,27.4
+12071, Spree-Neiße Landkreis,13.9,3.7,19.2,36.2,27
+12072, Teltow-Fläming Landkreis,16.1,5.1,23.5,33,22.3
+12073, Uckermark Landkreis,14.4,4.4,19.9,34.3,27
+13003, Kreisfreie Stadt Rostock Hansestadt,14,8.2,28.4,25.9,23.5
+13004, Kreisfreie Stadt Schwerin Landeshauptstadt,15.6,6.3,24.8,28.2,25.1
+13071, Landkreis Mecklenburgische Seenplatte,15,4.5,21.6,33.9,25
+13072, Landkreis Rostock,16.2,4.1,22,34.6,23.2
+13073, Landkreis Vorpommern-Rügen,14.6,4.5,22,33.5,25.4
+13074, Landkreis Nordwestmecklenburg,15.7,5,23.4,32.9,22.9
+13075, Landkreis Vorpommern-Greifswald,14.6,5.5,23,32.4,24.5
+13076, Landkreis Ludwigslust-Parchim,15.3,4.3,22.3,34.9,23.1
+14511, Chemnitz Stadt,14.8,6.1,25.3,26.2,27.6
+14521, Erzgebirgskreis,15.2,4.2,20.7,31.1,28.8
+14522, Mittelsachsen Landkreis,15,4.6,21.5,31.3,27.6
+14523, Vogtlandkreis,14.3,4.3,20.4,31.5,29.5
+14524, Zwickau Landkreis,14.6,4.6,20.9,31.1,28.8
+14612, Dresden Stadt,16.6,8.1,30.1,23.4,21.8
+14625, Bautzen Landkreis,15.9,3.9,21.1,32.2,26.9
+14626, Görlitz Landkreis,14.9,4.5,19.8,31.8,29.1
+14627, Meißen Landkreis,15.9,4,21.4,31.6,27
+14628, Sächsische Schweiz-Osterzgebirge Landkreis,16.4,4.1,21.8,30.6,27.1
+14713, Leipzig Stadt,15.8,8.3,32.1,23.2,20.5
+14729, Leipzig Landkreis,15.7,4.1,21.3,32.9,26.1
+14730, Nordsachsen Landkreis,15.3,4.2,21.9,33.4,25.2
+15001, Dessau-Roßlau Kreisfreie Stadt,13.3,4.6,20.5,30.8,30.8
+15002," Halle (Saale), Kreisfreie Stadt",15.4,8.8,26.6,25.2,23.9
+15003, Magdeburg Kreisfreie Stadt,14.9,8,26.6,26.4,24.1
+15081, Altmarkkreis Salzwedel,15.4,4.7,21.7,34.5,23.6
+15082, Anhalt-Bitterfeld Landkreis,13.7,4.5,20.9,33.6,27.3
+15083, Börde Landkreis,15.4,4.5,22.6,34.4,23.1
+15084, Burgenlandkreis,13.9,4.4,21.3,33.2,27.3
+15085, Harz Landkreis,13.9,4.7,20.9,33,27.5
+15086, Jerichower Land Landkreis,14.7,4.3,21,34.8,25.2
+15087, Mansfeld-Südharz Landkreis,13.5,4.1,19.9,33.7,28.9
+15088, Saalekreis,15,4.5,21.8,33.6,25.1
+15089, Salzlandkreis,14,4.7,20.6,33.3,27.4
+15090, Stendal Landkreis,14.9,4.8,20.9,34.6,24.8
+15091, Wittenberg Landkreis,13.7,4.2,20.1,34,28
+16051, Erfurt krsfr. Stadt,15.6,7.5,27.6,27.4,21.9
+16052, Gera krsfr. Stadt,14.1,4.9,21.8,30.8,28.4
+16053, Jena krsfr. Stadt,15.4,9.6,31.5,22.5,21.1
+16054, Suhl krsfr. Stadt,12.3,4.9,19.3,32,31.5
+16055, Weimar krsfr. Stadt,16.3,7.3,27,26.7,22.8
+16056, Eisenach krsfr. Stadt,15.2,5.3,24.2,29.6,25.6
+16061, Eichsfeld Kreis,17,4.8,24,31,23.1
+16062, Nordhausen Kreis,14.9,5.9,21.7,31.7,25.8
+16063, Wartburgkreis,15.1,4.4,22.4,33.2,24.9
+16064, Unstrut-Hainich-Kreis,16,4.9,22.2,32.3,24.5
+16065, Kyffhäuserkreis,14.5,4.4,20.9,33.7,26.5
+16066, Schmalkalden-Meiningen Kreis,14.2,4.8,22,33,25.9
+16067, Gotha Kreis,15.4,5,22.6,32.2,24.8
+16068, Sömmerda Kreis,15.6,4.4,22.4,33.8,23.8
+16069, Hildburghausen Kreis,14.6,4.5,23.1,33.4,24.3
+16070, Ilm-Kreis,14.7,5.7,23.2,31,25.4
+16071, Weimarer Land Kreis,16.5,4.6,22.3,33.2,23.4
+16072, Sonneberg Kreis,13.5,4.6,21.2,33.3,27.4
+16073, Saalfeld-Rudolstadt Kreis,13.8,4.2,20.6,33,28.4
+16074, Saale-Holzland-Kreis,15.2,4.5,21.5,33.3,25.4
+16075, Saale-Orla-Kreis,14.8,4.4,21.1,33.5,26.1
+16076, Greiz Kreis,13.9,4,19.3,34.2,28.5
+16077, Altenburger Land Kreis,13.6,4,19.4,33.1,29.9
