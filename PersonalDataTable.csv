@@ -1,0 +1,9 @@
+Symptoms,Health_Condition_Risk_Factor,Public_commute,Private_commute,No_of_high_risk_family_members,Area_of_store_in_sq_m
+fever,3,1,0,5,10
+cold,2,1,0,5,10
+nothing,3,0,1,1,24
+fever,3,1,0,1,232
+fever,3,0,1,5,10
+fever,4,1,0,3,10
+fever,5,0,1,1,12
+fever,3,1,0,5,10
