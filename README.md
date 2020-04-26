@@ -22,7 +22,8 @@ b) which customer would be allowed to enter store based on risk profile.
 
 Risk profile will depend on location/distances traveled in a given time period/people surrounding the person. Thereby providing an ecosystem to monitor people's health and predict possible asymptamatic cases.
 
-Please visit <youtube video link> for a porject 
+Please visit for overview: ![Overview](https://github.com/shanej199127/CDART_EUvsCovidHackathon/blob/master/img/Technical%20Model%20Diagram.JPG)
+
 
 # Technical Overview
 ![Technical Model Diagram](https://github.com/shanej199127/CDART_EUvsCovidHackathon/blob/master/img/Technical%20Model%20Diagram.JPG)
