@@ -49,6 +49,7 @@ Robert Koch Institute COVID Data: https://npgeo-corona-npgeo-de.hub.arcgis.com/d
 
 Mobility Data from: Google LLC "Google COVID-19 Community Mobility Reports." https://www.google.com/covid19/mobility/ Accessed: 2020-04-25.
  
+Los Alamos Data: https://www.lanl.gov/
  
 ## ******* Feel free to pull and waiting you for thoughts on helping the world combat COVID-19 *******
 
