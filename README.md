@@ -3,7 +3,7 @@ Group for hackathon for EU VS Covid 2020
 
 
 # A big thank you for Contributors 
-# version 1.0
+# version 0.1
 
 We try to create a platform where, later to be rolled out as an app (android/ios) which risk profile based on your location. i.e. moving from Hochtaunuskreis to Maintaunus Kreis your risk goes up since there are more infected people in MTK than in HG. Add some info on Hospital availability on top to complete the risk profile for travellers. 
 
