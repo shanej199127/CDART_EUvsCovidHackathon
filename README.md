@@ -7,7 +7,7 @@
 Group for hackathon for EU VS Covid 2020
 
 
-# A big thank you for Contributors 
+# A big thank you to all contributors 
 
 # Version 0.1
 # Project Overview
