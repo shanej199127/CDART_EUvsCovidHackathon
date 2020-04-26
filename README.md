@@ -1,4 +1,6 @@
+<p align="center">
 ![cdart logo](https://github.com/shanej199127/CDART_EUvsCovidHackathon/blob/master/img/cdart%20logo.jpg)
+</p>
 
 # CDART_EUvsCovidHackathon
 Group for hackathon for EU VS Covid 2020
@@ -7,7 +9,7 @@ Group for hackathon for EU VS Covid 2020
 # A big thank you for Contributors 
 
 # Version 0.1
-# Porject Overview
+# Project Overview
 
 We try to create a platform where, later to be rolled out as an app (android/ios) which risk profile based on your location. i.e. moving from Hochtaunuskreis to Maintaunus Kreis your risk goes up since there are more infected people in MTK than in HG. Add some info on Hospital availability on top to complete the risk profile for travellers. 
 
@@ -22,7 +24,10 @@ Risk profile will depend on location/distances traveled in a given time period/p
 Please visit <youtube video link> for a porject 
 
 # Technical Overview
+<p align="center">
+
 ![Technical Model Diagram](https://github.com/shanej199127/CDART_EUvsCovidHackathon/blob/master/img/Technical%20Model%20Diagram.JPG)
+</p>
 
 
 # Backend Services
