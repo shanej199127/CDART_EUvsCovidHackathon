@@ -13,7 +13,8 @@ b) which customer would be allowed to enter store based on risk profile.
 Risk profile will depend on location/distances traveled in a given time period/people surrounding the person. Thereby providing an ecosystem to monitor people's health and predict possible asymptamatic cases.
 
 Technical diagram could be found in Technical Model Diagram.vsdx 
-![Image description]https://github.com/shanej199127/CDART_EUvsCovidHackathon/blob/master/Technical%20Model%20Diagram.JPG
+
+![Technical Model Diagram](https://user-images.githubusercontent.com/45632421/80303039-11bed600-87ae-11ea-8512-eef72802a8d4.JPG)
 
 # Incoming Data Source
 COVID Data from: https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/917fc37a709542548cc3be077a786c17_0
