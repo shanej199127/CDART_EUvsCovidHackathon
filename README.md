@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="460" height="300" src="https://github.com/shanej199127/CDART_EUvsCovidHackathon/blob/master/img/cdart%20logo.jpg">
+   <img width="527" height="255" src="https://github.com/shanej199127/CDART_EUvsCovidHackathon/blob/master/img/cdart%20logo.jpg">
 
 </p>
 
