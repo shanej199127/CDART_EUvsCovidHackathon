@@ -1,4 +1,4 @@
-![Logo] ()
+![cdart logo](https://user-images.githubusercontent.com/61533897/80303410-6b280480-87b0-11ea-988c-fcb691c2ce33.PNG)
 # CDART_EUvsCovidHackathon
 Group for hackathon for EU VS Covid 2020
 
