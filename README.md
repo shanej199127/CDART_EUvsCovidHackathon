@@ -52,7 +52,7 @@ Mobility Data from: Google LLC "Google COVID-19 Community Mobility Reports." htt
  
 ## ******* Feel free to pull and waiting you for thoughts on helping the world combat COVID-19 *******
 
-# Future releases:
+# Future releases (version 1.0):
 1. REST APIs for data reads for future developers
 2. Front-end integration for Android
 3. Right now the granurality is for Landkreis (District) level for Germany. In future, this could be extended to other countries.
