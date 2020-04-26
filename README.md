@@ -31,7 +31,7 @@ Please visit <youtube video link> for a porject
 # Backend Services
 The backend databases are managed in Backendless (https://develop.backendless.com/). New data sources will be added through API calls or importing csv files (for ones APIs are not available) into the backend DB.
 
-This data is then being sent over to a server where a predictive model will be run which provides a SCORE value for that user/district. This will be prompted back again at frontend. Meantime, backend will automatically create a TIMETAG to have previous predicted risk scores of the user/district.
+This data is then being sent over to a server where a predictive model will be run which provides a <b>SCORE</b> value for that user/district. This will be prompted back again at frontend. Meantime, backend will automatically create a <b>TIMETAG</b> to have previous predicted risk scores of the user/district.
 
 # Frontend Services
 Data is being populated and aggregated to/from backend via REST API generated via Backendless. Data is gathered in 3 main pilars namely, Personal health Data, Location Data, Family & Associates Data. More pilars could be easily integrated for future developments. Currently being developed for iOS. 
