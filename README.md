@@ -1,4 +1,4 @@
-![cdart logo](https://user-images.githubusercontent.com/61533897/80303629-aecf3e00-87b1-11ea-8814-ec6373607258.jpg)
+![cdart logo](https://github.com/shanej199127/CDART_EUvsCovidHackathon/blob/master/img/cdart%20logo.jpg)
 
 # CDART_EUvsCovidHackathon
 Group for hackathon for EU VS Covid 2020
@@ -10,13 +10,16 @@ Group for hackathon for EU VS Covid 2020
 We try to create a platform where, later to be rolled out as an app (android/ios) which risk profile based on your location. i.e. moving from Hochtaunuskreis to Maintaunus Kreis your risk goes up since there are more infected people in MTK than in HG. Add some info on Hospital availability on top to complete the risk profile for travellers. 
 
 Providing a risk-assessment tool to businesses determining
+
 a) who could go back to work based on low risk profile and 
+
 b) which customer would be allowed to enter store based on risk profile. 
+
 Risk profile will depend on location/distances traveled in a given time period/people surrounding the person. Thereby providing an ecosystem to monitor people's health and predict possible asymptamatic cases.
 
 Technical diagram could be found in Technical Model Diagram.vsdx 
 
-![Technical Model Diagram](https://user-images.githubusercontent.com/45632421/80303039-11bed600-87ae-11ea-8512-eef72802a8d4.JPG)
+![Technical Model Diagram](https://github.com/shanej199127/CDART_EUvsCovidHackathon/blob/master/img/Technical%20Model%20Diagram.JPG)
 
 # Incoming Data Source
 MVP work is focussed on Showcasing for Germany only.
