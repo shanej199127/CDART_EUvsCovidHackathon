@@ -22,7 +22,7 @@ b) which customer would be allowed to enter store based on risk profile.
 
 Risk profile will depend on location/distances traveled in a given time period/people surrounding the person. Thereby providing an ecosystem to monitor people's health and predict possible asymptamatic cases.
 
-Please visit for overview: <iframe width="560" height="315" src="https://www.youtube.com/embed/xU1ed83b10Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Please visit for overview: https://www.youtube.com/embed/xU1ed83b10Q
 
 
 # Technical Overview
