@@ -1,5 +1,6 @@
 <p align="center">
-![cdart logo](https://github.com/shanej199127/CDART_EUvsCovidHackathon/blob/master/img/cdart%20logo.jpg)
+   <img width="460" height="300" src="https://github.com/shanej199127/CDART_EUvsCovidHackathon/blob/master/img/cdart%20logo.jpg">
+
 </p>
 
 # CDART_EUvsCovidHackathon
@@ -24,17 +25,20 @@ Risk profile will depend on location/distances traveled in a given time period/p
 Please visit <youtube video link> for a porject 
 
 # Technical Overview
-<p align="center">
-
 ![Technical Model Diagram](https://github.com/shanej199127/CDART_EUvsCovidHackathon/blob/master/img/Technical%20Model%20Diagram.JPG)
-</p>
 
 
 # Backend Services
 The backend databases are managed in Backendless (https://develop.backendless.com/)
 
 # Frontend Services
-Data is being populated and aggregated to/from backend via REST API generated via Backendless. Data is gathered in 3 main pilars namely, Personal health Data, Location Data, Family & Associates Data. More pilars could be easily integrated for future developments. 
+Data is being populated and aggregated to/from backend via REST API generated via Backendless. Data is gathered in 3 main pilars namely, Personal health Data, Location Data, Family & Associates Data. More pilars could be easily integrated for future developments. Currently being developed for iOS. 
+
+
+<p align="center">
+   <img width="348" height="722" title="Proposed App" src="https://github.com/shanej199127/CDART_EUvsCovidHackathon/blob/master/img/app1%20(1).JPG">
+
+</p>
 
 # Incoming Data Source
 MVP work is focussed on Showcasing for Germany only.
