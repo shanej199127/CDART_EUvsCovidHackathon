@@ -18,7 +18,9 @@ Technical diagram could be found in Technical Model Diagram.vsdx
 
 # Incoming Data Source
 COVID Data from: https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/917fc37a709542548cc3be077a786c17_0
+
 Age Data from: https://www-genesis.destatis.de/gis/genView?GenMLURL=https://www-genesis.destatis.de/regatlas/AI002-2.xml&CONTEXT=REGATLAS01
+
 Mobility Data from: Google LLC "Google COVID-19 Community Mobility Reports." https://www.google.com/covid19/mobility/ Accessed: 2020-04-25.
  
 
